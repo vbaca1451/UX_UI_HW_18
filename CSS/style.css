@@ -31,3 +31,7 @@ nav a:hover {
  transition: 0.5s;
  text-transform: uppercase;
 }
+
+footer {
+    background-color: rgb(65, 170, 156);
+}
