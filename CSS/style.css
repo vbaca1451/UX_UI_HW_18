@@ -35,3 +35,9 @@ nav a:hover {
 footer {
     background-color: rgb(65, 170, 156);
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
