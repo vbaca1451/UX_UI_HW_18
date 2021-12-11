@@ -43,9 +43,9 @@ img {
 }
 .home-section{
     padding: 20px;
-    text-align: center;
+    text-align: left;
     background-color: #848f89;
-    color: white;
+    color: rgb(10, 10, 10);
   }
   
   * {
