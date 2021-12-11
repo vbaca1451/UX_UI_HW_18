@@ -41,9 +41,9 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-.about-section{
+.home-section{
     padding: 20px;
-    text-align: left;
+    text-align: center;
     background-color: #848f89;
     color: white;
   }
